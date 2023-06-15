@@ -8,7 +8,7 @@
 <body>
     <h1>Dados do servidor</h1>
     <?php 
-        phpinfo();
+        phpinfo(); 
     ?>
     
 </body>
