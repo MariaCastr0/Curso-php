@@ -24,6 +24,8 @@ $sobrenome = "Silva"; // Tipo: String = sequência de letras, números e símbol
 
 $idade = 34; // Tipo: int ou integer = um valor numérico Inteiro, aquele que vem sem a parte decimal.
 
-$peso = 85.9; // float, double ou real (obd: deixou de ser utilizado a partir da versão 7 do PHP) = 
+$peso = 85.9; // float, double ou real (obd: deixou de ser utilizado a partir da versão 7 do PHP) = um valor numérico Real, que vem com a parte decimal, depois do ponto flutuante.
+
+$casado = true; // Tipo: bool ou boolean = um valor lógico ou Booleano, que aceita os valores verdadeiro ou falso (true or false).
 
 */
