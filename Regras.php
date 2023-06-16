@@ -9,3 +9,9 @@
 6- A linguagem é case sensite em relação aos nomes, colocar "";
 7- Nomes especiais como $this não podem ser usados.
 */
+
+<?php 
+    $nomeCompletoCliente = "Camel Case";
+    $telefone_contato_fornecedor = "Snake Case";
+    $nomecursosuperior = ""; //misturado e sem distinção
+?>
