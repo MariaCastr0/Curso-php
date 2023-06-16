@@ -1,3 +1,5 @@
+<?php 
+
 // Regras para nomes identificadores no PHP
 
 /*
@@ -9,3 +11,5 @@
 6- A linguagem é case sensite em relação aos nomes, colocar "";
 7- Nomes especiais como $this não podem ser usados.
 */
+
+?>
