@@ -29,6 +29,16 @@
         var_dump($p);
         */
 
+        
+        /*
+        STRINGS
+
+        double quoted (aspas duplas "");
+        single quoted(aspas simples'');
+        Heredoc;
+        Nowdoc;
+        */
+
     ?>
     
 </body>
