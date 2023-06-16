@@ -17,6 +17,18 @@
         // $n = 3e2; // 3.10^2;
         // echo "O valor é $num";
 
+       //  $vet = [6, 2.5, "Maria", 3, false]; // vários tipos de primitivos num só array
+        // var_dump($vet);
+
+        /*
+        class Pessoa {
+            private string $nome;
+        }
+
+        $p = new Pessoa;
+        var_dump($p);
+        */
+
     ?>
     
 </body>
