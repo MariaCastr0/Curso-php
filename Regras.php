@@ -15,3 +15,15 @@
     $telefone_contato_fornecedor = "Snake Case";
     $nomecursosuperior = ""; //misturado e sem distinção
 ?>
+
+// Tipos Primitivos Escalares
+
+/*
+
+$sobrenome = "Silva"; // Tipo: String = sequência de letras, números e símbolos, sempe representadas entre aspas.
+
+$idade = 34; // Tipo: int ou integer = um valor numérico Inteiro, aquele que vem sem a parte decimal.
+
+$peso = 85.9; // float, double ou real (obd: deixou de ser utilizado a partir da versão 7 do PHP) = 
+
+*/
