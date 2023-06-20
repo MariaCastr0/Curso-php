@@ -39,6 +39,15 @@
         Nowdoc;
         */
 
+        /*
+        EXEMPLOS STRINGS
+
+        > "RJ" -> String;
+        > 3.1415 -> Double;
+        > 17 -> Int;
+        > true -> Bool;
+        */
+
     ?>
     
 </body>
