@@ -40,7 +40,7 @@
         */
 
         /*
-        EXEMPLOS STRINGS
+        EXEMPLOS STRINGS (utilização)
 
         > "RJ" -> String;
         > 3.1415 -> Double;
