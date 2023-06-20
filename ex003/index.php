@@ -8,6 +8,16 @@
 <body>
     <h1>Teste de tipos primitivos </h1>
     <?php 
+        
+        /*
+        EXEMPLOS STRINGS (utilização)
+
+        > "RJ" -> String;
+        > 3.1415 -> Double;
+        > 17 -> Int;
+        > true -> Bool;
+        */
+
         // $v = 300;
         // var_dump($v); // código para testar o tipo primitivo
 
@@ -39,14 +49,7 @@
         Nowdoc;
         */
 
-        /*
-        EXEMPLOS STRINGS (utilização)
-
-        > "RJ" -> String;
-        > 3.1415 -> Double;
-        > 17 -> Int;
-        > true -> Bool;
-        */
+        
 
     ?>
     
