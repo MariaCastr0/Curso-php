@@ -19,10 +19,11 @@
         //   $suc = $num + 1;
     
           echo "O número escolhido foi $n.";
-          echo "O seu antecessor é $a.";
-          echo "O seu sucessor é $s.";
+          echo "<br>O seu <strong>antecessor</strong> é $a.";
+          echo "<br>O seu <strong>sucessor</strong> é $s.";
     ?>
         </p>
+        <button onclick="javascript:window.location.href='index.html'">&#x2B05; Voltar</button>
     </main>    
 </body>
 </html>
