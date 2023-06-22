@@ -18,9 +18,9 @@
         //   $ant = $num - 1;
         //   $suc = $num + 1;
     
-          echo "O seu número é $n.;
-          echo "O antecessor de $n é $a.";
-          echo "O sucessor de $n é $s.";
+          echo "O número escolhido foi $n.";
+          echo "O seu antecessor é $a.";
+          echo "O seu sucessor é $s.";
     ?>
         </p>
     </main>    
