@@ -20,7 +20,7 @@
           echo "<br>O seu <strong>sucessor</strong> é $s.";
     ?>
         </p>
-        <button onclick="javascript:window.location.href='index.html'">&#x2B05; Voltar</button>
+        <button onclick="javascript:history.go(-1)">&#x2B05; Voltar</button>
     </main>    
 </body>
 </html>
