@@ -20,7 +20,6 @@
 
 
 
-
             // Códigos para gerar números aleatórios:
 
             // rand() = 1951 - Linear Congrential Generator;
@@ -30,6 +29,7 @@
             // random_int() = essa é uma das funções que gera números aleatórios criptograficamente seguros, normalmente utilizados com a função de segurança - para senhas - por exemplo. Portanto, para ocasiões como essa, a função random_int() é a mais indicada. Mas, ainda sim, há um porém: é uma função muito lenta - no que se propõe a executar - em comparação com as outras funções (também geradoras de números aleatórios), ou seja, é a função que leva mais tempo para gerar um número aleatório.
  
         ?>
+        <button onclick="javascript:document.location.reload()">&#x1F504; Gerar outro</button>
         
     </main>
 
