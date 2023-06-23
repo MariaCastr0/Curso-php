@@ -10,9 +10,9 @@
     <main>
         <h1>Conversor de Moedas</h1>
         <form action="resposta.php" method="get">
-            <label for="num">Quantos R$ você tem na carteira? </label>
+            <label for="num">Quantos <strong>R$</strong> você tem na carteira? </label>
             <input type="number" name="num" id="num">
-            <input type="submit" value="Calcular">
+            <input type="submit" value="Converter">
         </form>
     </main>
     
