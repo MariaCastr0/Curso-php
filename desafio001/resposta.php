@@ -14,9 +14,6 @@
         $n = $_REQUEST["num"] ?? 0;
         $a = $n - 1;
         $s = $n + 1;
-      
-        //   $ant = $num - 1;
-        //   $suc = $num + 1;
     
           echo "O número escolhido foi $n.";
           echo "<br>O seu <strong>antecessor</strong> é $a.";
